@@ -1,0 +1,105 @@
+.tieudemuc {
+    text-align: center;
+    color: #505763;
+    /*font-family: 'Vollkorn SC', serif;*/
+    /*font-family: 'Nunito', sans-serif;*/
+    /*font-family: 'Exo', sans-serif;*/
+    /*font-family: 'Cormorant', serif;*/
+    /*font-family: 'Josefin Sans', sans-serif;*/
+    font-family: 'Pacifico', cursive;
+    /*font-family: 'Varela Round', sans-serif;*/
+    /*font-family: 'Cormorant Garamond', serif;*/
+}
+.tieudemuc span{
+    background-color: #007bff;
+    padding: 10px;
+}
+
+body {
+    background-color: #f7f8fa;
+}
+
+.thongtinnhanhsp {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tensp, .giasp{
+    font-weight: 600;
+    color: #29303b;
+    /*font-family: 'Nunito', sans-serif;*/
+    font-family: 'Josefin Sans', sans-serif;
+    /*font-family: 'Arsenal', sans-serif;*/
+
+    font-size: 18px;
+}
+.anhsp img{
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+
+.thongtinnhanhsp a{
+    text-decoration: none;
+    color: #29303b;
+}
+
+.cach {
+    height: 30px;
+}
+.cach15 {
+    height: 15px;
+}
+
+.xemthem {
+    margin: 0px auto;
+}
+
+.motsp{
+    border-radius: 4px;
+    background-color: white;
+    /*box-shadow: 0 1px 1px rgba(0,0,0,.2);*/
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    /*box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);*/
+    /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.hvr-float {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+
+.hvr-float:hover, .hvr-float:focus, .hvr-float:active {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+.footer{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.linkfooter a{
+    text-decoration: none;
+}
+
+#btndangnhap{
+    margin-left: 15px;
+    text-decoration: none;
+}
+.navbar{
+    background-color: white!important;
+}
