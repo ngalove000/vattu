@@ -14,3 +14,5 @@
 
 Route::get('/', 'NguoiDungController@trangchu');
 Route::get('san-pham', 'NguoiDungController@sanpham');
+Route::get('hang-can-ban', 'NguoiDungController@hangcanban');
+Route::get('dang-ky', 'NguoiDungController@dangky');

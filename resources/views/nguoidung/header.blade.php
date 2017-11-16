@@ -27,7 +27,7 @@
                     <a class="nav-link" href="#">Trang chủ <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Hàng Cần Bán</a>
+                    <a class="nav-link" href="{{url('hang-can-ban')}}">Hàng Cần Bán</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Hàng Cần Mua</a>

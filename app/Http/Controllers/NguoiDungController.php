@@ -15,4 +15,14 @@ class NguoiDungController extends Controller
     {
         return view('nguoidung.sanpham');
     }
+
+    public function hangcanban()
+    {
+        return view('nguoidung.hangcanban');
+    }
+
+    public function dangky()
+    {
+        return view('nguoidung.dangky');
+    }
 }

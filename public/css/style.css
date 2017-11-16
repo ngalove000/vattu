@@ -16,6 +16,7 @@ body {
 
     /*mau cua udemy*/
     background-color: #f7f8fa;
+    font-family: 'Exo', sans-serif;
 
 }
 
@@ -51,6 +52,10 @@ body {
 
 .cach15 {
     height: 15px;
+}
+
+.cach50 {
+    height: 50px;
 }
 
 .xemthem {
@@ -203,4 +208,12 @@ body {
 .modal-title {
     font-family: 'Exo', sans-serif;
     text-align: center;
+}
+
+.tuychontrai {
+    margin-top: 15px;
+}
+
+#timkiem, #btntimkiem, #sapxep{
+    width: 100%;margin-top: 15px
 }

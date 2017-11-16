@@ -11,7 +11,7 @@
             <nav aria-label="breadcrumb" role="navigation">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
-                    <li class="breadcrumb-item"><a href="#">Loại sản phẩm</a></li>
+                    <li class="breadcrumb-item"><a href="#">Danh Sách Hàng Cần Bán</a></li>
                     <li class="breadcrumb-item active" aria-current="page">TILT SUPER 300 EC 100ml</li>
                 </ol>
             </nav>
@@ -94,4 +94,20 @@
     </div>
     <div class="cach">
     </div>
+    <script id="bangthongtinlienhe" type="text/x-custom-template">
+        <table class="table table-bordered bangchitietsp">
+            <tr>
+                <td>Họ Tên</td>
+                <td>Nguyễn Ngọc Ngà</td>
+            </tr>
+            <tr>
+                <td class="">Điện Thoại</td>
+                <td>01649444440</td>
+            </tr>
+            <tr>
+                <td class="">Địa Chỉ</td>
+                <td>Ninh Kiều - Cần Thơ</td>
+            </tr>
+        </table>
+    </script>
 @endsection
