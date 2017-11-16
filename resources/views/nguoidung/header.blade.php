@@ -10,6 +10,7 @@
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="{{url('css/style.css')}}">
     <link href="https://fonts.googleapis.com/css?family=Vollkorn+SC" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
     <link href="https://fonts.googleapis.com/css?family=Arsenal|Cormorant|Cormorant+Garamond|Dancing+Script|Exo|Josefin+Sans|Nunito|Pacifico|Varela+Round|Judson" rel="stylesheet">
 </head>
 <body>

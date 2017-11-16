@@ -178,11 +178,11 @@ body {
     font-size: 20px;
 }
 
-.btngoingay button {
+.btnlienhengay button {
     width: 100%;
 }
 
-.btngoingay {
+.btnlienhengay {
     padding-bottom: 15px;
     border-bottom: dashed 1px #d9d9d9;
 }
@@ -196,6 +196,11 @@ body {
     text-decoration: none;
 }
 
-.bangchitietsp{
+.bangchitietsp {
     margin-bottom: 0px;
+}
+
+.modal-title {
+    font-family: 'Exo', sans-serif;
+    text-align: center;
 }
