@@ -12,4 +12,5 @@
 */
 
 
-Route::get('/','NguoiDungController@trangchu');
+Route::get('/', 'NguoiDungController@trangchu');
+Route::get('san-pham', 'NguoiDungController@sanpham');

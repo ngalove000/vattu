@@ -1,5 +1,6 @@
 .tieudemuc {
     text-align: center;
+    /*mau chu tieu de udemy*/
     color: #505763;
     /*font-family: 'Vollkorn SC', serif;*/
     /*font-family: 'Nunito', sans-serif;*/
@@ -10,13 +11,12 @@
     /*font-family: 'Varela Round', sans-serif;*/
     /*font-family: 'Cormorant Garamond', serif;*/
 }
-.tieudemuc span{
-    background-color: #007bff;
-    padding: 10px;
-}
 
 body {
+
+    /*mau cua udemy*/
     background-color: #f7f8fa;
+
 }
 
 .thongtinnhanhsp {
@@ -25,22 +25,22 @@ body {
     padding-bottom: 10px;
 }
 
-.tensp, .giasp{
-    font-weight: 600;
+.tensp, .giasp {
+    /*font-weight: 600;*/
     color: #29303b;
     /*font-family: 'Nunito', sans-serif;*/
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Exo', sans-serif;
     /*font-family: 'Arsenal', sans-serif;*/
 
     font-size: 18px;
 }
-.anhsp img{
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
+
+.anhsp img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
-
-.thongtinnhanhsp a{
+.thongtinnhanhsp a {
     text-decoration: none;
     color: #29303b;
 }
@@ -48,6 +48,7 @@ body {
 .cach {
     height: 30px;
 }
+
 .cach15 {
     height: 15px;
 }
@@ -56,13 +57,13 @@ body {
     margin: 0px auto;
 }
 
-.motsp{
-    border-radius: 4px;
+.motsp {
+    border-radius: 5px;
     background-color: white;
     /*box-shadow: 0 1px 1px rgba(0,0,0,.2);*/
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     /*box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);*/
-    /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+    /*box-shadow: 0 15px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
     margin-bottom: 15px;
     margin-top: 15px;
 }
@@ -86,20 +87,115 @@ body {
     transform: translateY(-8px);
 }
 
-.footer{
+.footer {
+    font-family: 'Exo', sans-serif;
     background-color: white;
     padding-top: 30px;
     padding-bottom: 30px;
 }
 
-.linkfooter a{
+.linkfooter a {
     text-decoration: none;
 }
 
-#btndangnhap{
+#btndangnhap {
     margin-left: 15px;
     text-decoration: none;
 }
-.navbar{
-    background-color: white!important;
+
+.navbar {
+    background-color: white !important;
+}
+
+.breadcrumb {
+    background: none;
+    /*font-family: 'Vollkorn SC', serif;*/
+    /*font-family: 'Nunito', sans-serif;*/
+    font-family: 'Exo', sans-serif;
+    /*font-family: 'Cormorant', serif;*/
+    /*font-family: 'Josefin Sans', sans-serif;*/
+    /*font-family: 'Pacifico', cursive;*/
+    /*font-family: 'Varela Round', sans-serif;*/
+    /*font-family: 'Cormorant Garamond', serif;*/
+    font-size: 15px;
+    margin: 0px !important;
+}
+
+.dongdau {
+    background-color: #f7f8fa;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+}
+
+.tieudesp {
+    color: #505763;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.navbar {
+    font-family: 'Exo', sans-serif;
+}
+
+.anhchitietsp img {
+    border-radius: 5px;
+    /*box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);*/
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    margin-top: 15px;
+}
+
+.thongtinsanpham {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    padding: 10px;
+    /*box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);*/
+}
+
+.thongtinsanpham {
+    margin-top: 15px;
+    font-family: 'Exo', sans-serif;
+    /*font-weight: 600;*/
+    color: #29303b;
+    font-size: 15px;
+    min-width: 270px;
+}
+
+.nguoiban {
+    margin-top: 15px;
+    font-family: 'Exo', sans-serif;
+    /*font-weight: 600;*/
+    color: #29303b;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    padding: 10px;
+}
+
+.giachitietsp {
+    text-align: center;
+    font-size: 20px;
+}
+
+.btngoingay button {
+    width: 100%;
+}
+
+.btngoingay {
+    padding-bottom: 15px;
+    border-bottom: dashed 1px #d9d9d9;
+}
+
+.tennguoiban {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.tennguoiban a {
+    text-decoration: none;
+}
+
+.bangchitietsp{
+    margin-bottom: 0px;
 }
