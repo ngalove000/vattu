@@ -25,4 +25,10 @@ class NguoiDungController extends Controller
     {
         return view('nguoidung.dangky');
     }
+
+    public function dangnhap()
+    {
+        return view('nguoidung.dangnhap');
+    }
+
 }

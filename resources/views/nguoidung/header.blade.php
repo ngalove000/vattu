@@ -46,8 +46,8 @@
                 {{--</div>--}}
                 {{--</li>--}}
             </ul>
-            <a href="" class="btn btn-primary">Đăng Ký</a>
-            <a href="" id="btndangnhap">Đăng Nhập</a>
+            <a href="{{url('dang-ky')}}" class="btn btn-primary">Đăng Ký</a>
+            <a href="{{url('dang-nhap')}}" id="btndangnhap">Đăng Nhập</a>
         </div>
     </div>
 </nav>
