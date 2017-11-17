@@ -62,7 +62,7 @@
                             <div class="thongtinnguoiban">
                                 <div class="tennguoiban">
                                     Cung cấp bởi <br>
-                                    <a href="">congtykff</a>
+                                    <a href="{{url('nguoi-dung')}}">congtykff</a>
                                 </div>
                             </div>
                         </div>

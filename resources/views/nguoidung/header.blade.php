@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="{{url('css/style.css')}}">
     <link href="https://fonts.googleapis.com/css?family=Vollkorn+SC" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Arsenal|Cormorant|Cormorant+Garamond|Dancing+Script|Exo|Josefin+Sans|Nunito|Pacifico|Varela+Round|Judson" rel="stylesheet">
 </head>
 <body>

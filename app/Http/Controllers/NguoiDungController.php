@@ -31,4 +31,9 @@ class NguoiDungController extends Controller
         return view('nguoidung.dangnhap');
     }
 
+    public function nguoidung()
+    {
+        return view('nguoidung.nguoidung');
+    }
+
 }
